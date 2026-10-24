@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusRide — Campus Ride Sharing System
 > A comprehensive, full-stack campus ride-sharing and carpooling web platform designed for college students and faculty members. Built with modern, secure PHP 8 and MySQL/MariaDB.
 
@@ -320,3 +321,4 @@ To re-run the automated test suite locally at any time:
 ## 📄 License & Academic Attribution
 Developed as an academic engineering prototype for campus mobility and sustainable university transportation.
 © 2026 CampusRide. All rights reserved.
+=======
