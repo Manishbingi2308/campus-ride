@@ -1,0 +1,9 @@
+# CampusRide Git Ignore
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/vendor/
+/node_modules/
